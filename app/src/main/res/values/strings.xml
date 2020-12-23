@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">quizTutorial</string>
+
+    <string name="score">Score 0/8</string>
+    <string name="question_number">1/8 Question</string>
+
+    <string name="question_1">What technology is used to make telephone calls over the internet possible?</string>
+    <string name="question1_A">Bluetooth</string>
+    <string name="question1_B">Ethernet</string>
+    <string name="question1_C">NFC</string>
+    <string name="question1_D">VoIP</string>
+    <string name="answer_1">VoIP</string>
+
+
+    <string name="question_2">Which computer language is the most widely used?</string>
+    <string name="question_2A">C#</string>
+    <string name="question_2B">Swift</string>
+    <string name="question_2C">PHP</string>
+    <string name="question_2D">Java</string>
+    <string name="answer_2">Java</string>
+
+
+    <string name="question_3"> Which of the following is an important step towards the paperless concept?</string>
+    <string name="question_3A"> Doxing</string>
+    <string name="question_3B">Debugging</string>
+    <string name="question_3C">Downloading</string>
+    <string name="question_3D">Digitizing</string>
+    <string name="answer_3">Digitizing</string>
+
+    <string name="question_4">Approximately, how much data exists in the digital universe today?</string>
+    <string name="question_4A">40 Gigabytes</string>
+    <string name="question_4B">40 Terabytes</string>
+    <string name="question_4C">40 Megabytes</string>
+    <string name="question_4D">40 Zetabytes</string>
+    <string name="answer_4">2.7 Zetabytes</string>
+
+    <string name="question_5">Making a compressed digital archive might produce what type of file format?</string>
+    <string name="question_5A"> PDF</string>
+    <string name="question_5B">JPEG</string>
+    <string name="question_5C">MP3</string>
+    <string name="question_5D">ZIP</string>
+    <string name="answer_5">JPEG</string>
+
+    <string name="question_6">What is our Channel Name ?</string>
+    <string name="question_6A"> Tech Pro</string>
+    <string name="question_6B">Tech</string>
+    <string name="question_6C">Projects</string>
+    <string name="question_6D">Tech Projects</string>
+    <string name="answer_6">Tech Projects</string>
+
+    <string name="question_7">What is my name ?</string>
+    <string name="question_7A">Brijesh</string>
+    <string name="question_7B">Sam</string>
+    <string name="question_7C">Karan</string>
+    <string name="question_7D">Programmer</string>
+    <string name="answer_7">Brijesh</string>
+
+    <string name="question_8">What is part of a database that holds only one type of information?</string>
+    <string name="question_8A"> Report</string>
+    <string name="question_8B">Field</string>
+    <string name="question_8C">Record</string>
+    <string name="question_8D">File</string>
+    <string name="answer_8">Field</string>
+    <string name="selctedoption">SelctedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+
+</resources>
